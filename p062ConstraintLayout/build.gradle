@@ -7,7 +7,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "com.chernykh.p063testmodule"
+        applicationId "com.chernykh.p062constraintlayout"
         minSdk 21
         targetSdk 31
         versionCode 1
