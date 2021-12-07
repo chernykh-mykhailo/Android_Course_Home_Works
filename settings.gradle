@@ -7,8 +7,11 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Android Course Home Works"
-include ':app'
 include ':p061teamscore'
 include ':p051regform'
 include ':p052reg_form_relative'
 include ':p062ConstraintLayout'
+include ':p071_Natural_Dictionar'
+include ':p081UserProfileGallary'
+include ':p092LayoutInflater'
+include ':p091recyclerview'

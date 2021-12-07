@@ -3,12 +3,30 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AndroidCourseHomeWorks/app/src/main/res/layout/activity_main.xml" value="0.18478260869565216" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/AndroidCourseHomeWorks/p051regform/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/AndroidCourseHomeWorks/p052reg_form_relative/src/main/res/layout/activity_main.xml" value="0.13020833333333334" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/AndroidCourseHomeWorks/p061regform/src/main/res/layout/activity_main.xml" value="0.11676798378926039" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/AndroidCourseHomeWorks/p061teamscore/src/main/res/layout/activity_main.xml" value="0.2504528985507246" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/AndroidCourseHomeWorks/p062ConstraintLayout/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/AndroidCourseHomeWorks/p063testmodule/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AndroidCourseHomeWorks/p071_Natural_Dictionar/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AndroidCourseHomeWorks/p071_Natural_Dictionar/src/main/res/menu/menu.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AndroidCourseHomeWorks/p071_Natural_Dictionar/src/main/res/menu/menu_dc.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AndroidCourseHomeWorks/p081UserProfileGallary/src/main/res/drawable/back.xml" value="0.2703125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AndroidCourseHomeWorks/p081UserProfileGallary/src/main/res/drawable/border.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AndroidCourseHomeWorks/p081UserProfileGallary/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AndroidCourseHomeWorks/p081UserProfileGallary/src/main/res/layout/Country.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AndroidCourseHomeWorks/p081UserProfileGallary/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AndroidCourseHomeWorks/p081UserProfileGallary/src/main/res/layout/country.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AndroidCourseHomeWorks/p081UserProfileGallary/src/main/res/layout/name.xml" value="0.16" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AndroidCourseHomeWorks/p081UserProfileGallary/src/main/res/layout/сountry.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AndroidCourseHomeWorks/p082recyclerviewanswers/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AndroidCourseHomeWorks/p082recyclerviewanswers/src/main/res/layout/item.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AndroidCourseHomeWorks/p091recyclerview/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AndroidCourseHomeWorks/p091recyclerview/src/main/res/layout/item.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AndroidCourseHomeWorks/p091recyclerview/src/main/res/layout/item_chat.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AndroidCourseHomeWorks/p092LayoutInflater/src/main/res/layout/item.xml" value="0.1" />
       </map>
     </option>
   </component>

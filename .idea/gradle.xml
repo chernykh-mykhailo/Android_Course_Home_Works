@@ -10,11 +10,14 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/p051regform" />
             <option value="$PROJECT_DIR$/p052reg_form_relative" />
             <option value="$PROJECT_DIR$/p061teamscore" />
             <option value="$PROJECT_DIR$/p062ConstraintLayout" />
+            <option value="$PROJECT_DIR$/p071_Natural_Dictionar" />
+            <option value="$PROJECT_DIR$/p081UserProfileGallary" />
+            <option value="$PROJECT_DIR$/p091recyclerview" />
+            <option value="$PROJECT_DIR$/p092LayoutInflater" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

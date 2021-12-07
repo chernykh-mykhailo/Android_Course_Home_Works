@@ -58,12 +58,13 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@color/white"
-        android:tint="@color/purple_200"
         app:layout_constraintStart_toEndOf="@+id/textView2"
         app:layout_constraintTop_toTopOf="@+id/textView"
-        app:srcCompat="@android:drawable/btn_star" />
+        app:srcCompat="@android:drawable/btn_star"
+        app:tint="@color/purple_200" />
 
     <RadioGroup
+        android:id="@+id/radioGroup"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
@@ -75,9 +76,9 @@
             android:id="@+id/button"
             android:layout_width="180dp"
             android:layout_height="50dp"
-            android:text="Rent from r29.99"
-            android:backgroundTint="@color/purple_200"
             android:layout_marginLeft="15dp"
+            android:backgroundTint="@color/purple_200"
+            android:text="Rent from r29.99"
             app:layout_constraintTop_toBottomOf="@+id/imageView2" />
 
         <Button
@@ -91,6 +92,18 @@
             app:layout_constraintTop_toTopOf="@+id/button" />
 
     </RadioGroup>
+
+    <View
+        android:id="@+id/divider"
+        android:layout_width="409dp"
+        android:layout_height="1dp"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="1dp"
+        android:background="?android:attr/listDivider"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/radioGroup" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

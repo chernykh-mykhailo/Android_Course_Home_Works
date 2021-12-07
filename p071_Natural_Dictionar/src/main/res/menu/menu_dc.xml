@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/gpoup1">
+        <item
+            android:id="@+id/antihero"
+            android:title="Анти-герої"
+            android:orderInCategory="2">
+
+            <menu>
+                <item
+                    android:id="@+id/women_anti_hero"
+                    android:title="Жінки"
+                    android:orderInCategory="2"/>
+
+                <item
+                    android:id="@+id/men_anti_hero"
+                    android:title="Чоловіки"
+                    android:orderInCategory="1"/>
+            </menu>
+
+        </item>
+
+        <item
+            android:id="@+id/hero"
+            android:title="Герої"
+            android:orderInCategory="1">
+
+            <menu>
+                <item
+                    android:id="@+id/women"
+                    android:title="Жінки"
+                    android:orderInCategory="2"/>
+
+                <item
+                    android:id="@+id/men"
+                    android:title="Чоловіки"
+                    android:orderInCategory="1"/>
+            </menu>
+
+        </item>
+
+    </group>
+</menu>
